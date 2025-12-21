@@ -3,8 +3,13 @@
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
-# ToDo
+## Goals
 
-- [x] Replace OmniSharp with Roslyn
+- __.NET__
+- __Markdown__
+
+## ToDo
+
+- [x] Replace __OmniSharp__ with __Roslyn__
 - [ ] Fix different formatting when saving and when explicitly formatting
 
