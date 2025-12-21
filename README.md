@@ -12,4 +12,3 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 - [x] Replace __OmniSharp__ with __Roslyn__
 - [ ] Fix different formatting when saving and when explicitly formatting
-
