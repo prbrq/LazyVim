@@ -5,5 +5,8 @@ return {
       "github:mason-org/mason-registry",
       "github:Crashdummyy/mason-registry", -- для Roslyn
     },
+    ensure_installed = {
+      "roslyn",
+    },
   },
 }
